@@ -5,3 +5,5 @@ venv/
 artifacts/
 data/processed/
 *.pyc
+*.egg-info/
+.env
